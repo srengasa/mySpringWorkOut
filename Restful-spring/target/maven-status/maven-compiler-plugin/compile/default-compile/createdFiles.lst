@@ -1,0 +1,5 @@
+rest\reactor\GreetingProducer.class
+rest\reactor\GreetingReceiver.class
+rest\controller\GreetingsController.class
+rest\config\ApplicationConfig.class
+rest\model\Greeting.class
